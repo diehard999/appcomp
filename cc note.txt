@@ -1,0 +1,55 @@
+Study all tutorial 
+T1
+Study all positive point and negative point of cloud computing 
+T2
+Front end and back end 
+T3 
+Server virtualization
+Conversation web service (old method of web service to web hosting )
+Cloud computing (new method to manage web)
+Thin and thick client
+ cloud computing vs web service (lecture 5-6pass, cc virtual,webservice-physical)
+cloud application built collection of component 
+-composability (use composasbility system to assembly for certain purpose)
+choose cpu/processing power , hard disk size  ,network interface (all these are component)
+
+advantage of cc for this kind of set up
+-try to replace employee pc using thin client pc (1)low spec pc but it go to your server) [2]need to improve bandwidth] [3 proper way to disposal the pc]
+
+advantage risk  management 
+-cloud vendor help you prevent risk (tutoral got mention
+stragegy plan to migrate the cc -(define ,analyze ,approve,charter) lecture 10 strategy plan
+
+paas topic/chapter
+-functions to support developer provided by paas( ide,i.service,stability, instrumentation , workflow facilities,ui,visualization tools,collaboration service , source code)
+
+constrainst(disadv)
+-language and run-times limitation 
+-not all language/library are enabled
+-generic apis replace some feature ( may stack with your program ,may face problem in your program
+-Size constraints on individual request
+-statelessness
+
+lecture 11 risk management
+-identity static and speculative risk
+-potential benefit(speculative), potential loss (static risk)
+
+-know why classifying and evaluating risk (to come out back up plan and minimized damage )
+
+lecture 7-8 Saas
+-reason to apply this service
+-adv (requirement can direct meet customer need , lowest cost solution)
+-Disadv- problem of customization, indeed to develop additional applications much better with two other service
+
+lect 12 financial impact
+Resource cost
+-study all workload (like static workload [learn all diagram])
+-periodic workload (use for less workload situation ,use recourse for only part of time/rarely but need pay full cost)
+
+last chapter lect 13 security 
+-study how to stay safe
+-hire expects (4 category [ recognized auditors,organization,legal counsel, experts from general public]
+
+differences of traditional programming and cc
+-parallel programming use additional threads (traditional
+-allow program scale up itself to server(cc programming
